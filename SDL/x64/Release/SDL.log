@@ -1,0 +1,8 @@
+﻿D:\Visual Studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (SDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Generating code
+  0 of 2786 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL.vcxproj -> D:\.Hoc\.N4_2\Game-Project\x64\Release\Echo of the Nameless.exe
+  0 File(s) copied

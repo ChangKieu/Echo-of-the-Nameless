@@ -1,0 +1,166 @@
+
+STT1
+1 1 64 64 Blood
+2 2 200 200 Monster1
+0 -1 200 200 Monster2
+STT2
+0 -4 100 100 FireSpike
+0 4 100 100 Spike
+0 0 200 200 Suriken
+2 2 200 200 Monster1
+4 4 64 64 Blood
+STT3
+0 0 64 64 Blood
+0 1 200 200 Monster1
+2 -2 200 200 Suriken
+-3 1 200 200 Suriken
+0 -4 100 100 Spike
+0 4 100 100 Spike
+STT4
+0 1 200 200 Monster2
+1 1 200 200 Suriken
+0 -3 200 200 Suriken
+0 -4 100 100 FireSpike
+0 4 100 100 FireSpike
+STT5
+0 5 100 100 FireSpike
+0 -5 100 100 FireSpike
+0 0 200 200 Monster1
+3 3 200 200 Monster2
+0 -4 100 100 Suriken
+4 0 100 100 Suriken
+STT6
+0 1 200 200 Monster1
+0 0 64 64 Blood
+0 4 100 100 Spike
+0 3 100 100 FireSpike
+-3 0 100 100 FireSpike
+3 0 100 100 FireSpike
+0 -3 100 100 FireSpike
+STT7
+2 2 200 200 Monster1
+0 0 200 200 Suriken
+0 4 100 100 Spike
+0 -4 100 100 FireSpike
+5 0 100 100 Spike
+-5 0 100 100 FireSpike
+STT8
+0 -4 100 100 FireSpike
+0 4 100 100 Spike
+0 0 200 200 Suriken
+3 0 100 100 Spike
+-3 0 100 100 Spike
+2 2 200 200 Monster1
+0 2 200 200 Monster2
+4 4 64 64 Blood
+STT9
+1 1 64 64 Blood
+2 2 200 200 Monster1
+3 2  200 200 Monster2
+0 3 100 100 FireSpike
+0 -3 100 100 FireSpike
+-5 0 100 100 Suriken
+5 0 100 100 Suriken
+STT10
+0 0 64 64 Blood
+0 3 200 200 Monster2
+2 -2 200 200 Suriken
+-2 2 200 200 Suriken
+-3 1 200 200 Monster1
+0 -4 100 100 Spike
+0 4 100 100 Spike
+STT11
+0 0 64 64 Blood
+0 1 100 100  FireSpike
+1 0 100 100  FireSpike
+0 -1 100 100  FireSpike
+-1 0 100 100  FireSpike
+2 -2 200 200 Suriken
+-2 2 200 200 Suriken
+-3 1 200 200 Monster1
+0 -4 100 100 Spike
+0  4 100 100 Spike
+STT12
+0 0 64 64 Blood
+0 2 100 100  Spike
+2 0 100 100  Spike
+0 -2 100 100 Spike
+-2 0 100 100  Spike
+2 -2 200 200 Suriken
+-2 2 200 200 Suriken
+-2 0 200 200 Monster1
+0 -4 100 100 FireSpike
+0  4 100 100 FireSpike
+STT13
+0 1 200 200 Monster1
+0 0 64 64 Blood
+5 0 100 100 Spike
+-5 0 100 100 Spike
+0 3 100 100 FireSpike
+-3 0 100 100 FireSpike
+3 0 100 100 FireSpike
+0 -3 100 100 FireSpike
+STT14
+0 1 64 64 Blood
+0 2 100 100  Suriken
+2 0 100 100  Suriken
+0 -2 100 100 Suriken
+-2 0 100 100 Suriken
+0 -4 100 100 FireSpike
+0  4 100 100 FireSpike
+5 0 100 100 FireSpike
+-5 0 100 100 FireSpike
+STT15
+0 0 64 64 Blood
+0 3 200 200 Monster1
+3 0 200 200 Monster2
+-3 1 100 100 FireSpike
+-3 -1 100 100 FireSpike
+-1 3 100 100 FireSpike
+-1 -3 100 100 FireSpike
+3 -1 100 100 FireSpike
+3 1 100 100 FireSpike
+1 -3 100 100 FireSpike
+1 3 100 100 FireSpike
+STT16
+0 0 64 64 Blood
+2 2 64 64 Blood
+3 0 200 200 Monster2
+-3 1 100 100 Spike
+-3 -1 100 100 Spike
+-1 3 100 100 Spike
+-1 -3 100 100 Spike
+3 -1 100 100 Spike
+3 1 100 100 Spike
+1 -3 100 100 Spike
+1 3 100 100 Spike
+STT17
+2 -2 64 64 Blood
+2 2 200 200 Monster1
+0 -1 200 200 Monster2
+STT18
+0 0 64 64 Blood
+0 3 200 200 Monster2
+2 -2 200 200 Suriken
+-2 2 200 200 Suriken
+-3 1 200 200 Monster1
+0 -4 100 100 Spike
+0 4 100 100 Spike
+STT19
+0 0 64 64 Blood
+0 3 200 200 Monster1
+3 0 200 200 Monster2
+-3 1 100 100 Spike
+-3 -1 100 100 FireSpike
+-1 3 100 100 Spike
+-1 -3 100 100 FireSpike
+3 -1 100 100 Spike
+3 1 100 100 FireSpike
+1 -3 100 100 Spike
+1 3 100 100 FireSpike
+STT20
+2 1 64 64 Blood
+5 0 100 100 Spike
+3 0 100 100 FireSpike
+-3 0 100 100 Spike
+-5 0 100 100 FireSpike
